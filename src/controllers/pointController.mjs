@@ -1,4 +1,4 @@
-import PointService from "../services/pointService.mjs";
+import PointService from '../services/PointService.mjs';
 
 class PointController {}
 
