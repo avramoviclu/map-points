@@ -1,5 +1,5 @@
-import VideoService from "../services/videService.mjs";
+import VideoService from '../services/VideService.mjs';
 
 class VideoController {}
 
-export default PostController;
+export default VideoController;
